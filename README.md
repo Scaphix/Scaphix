@@ -3,18 +3,25 @@
 <h3 align="center">Engineer turned Software Developer · Full-Stack · Machine Learning · AI Agents</h3>
 
 <p align="center">
-  Based in Oldenburg, Germany — building production-ready applications that bring AI into real-world engineering problems.
+  Based in Oldenburg, Germany. Building production-ready applications that bring AI into real-world engineering problems.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:chahinez.hoelzenbein@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Scaphix"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://komarev.com/ghpvc/?username=Scaphix&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 ---
 
 ### About me
 
-I'm a Diploma Engineer with 10+ years across **medical technology**, **renewable energy**, and **technical project management** — now channelling that experience into software.
+I'm a Diploma Engineer with **10+ years** across **medical technology**, **renewable energy**, and **technical project management**- now channelling that experience into software.
 
 After completing full-stack training at Code Institute, I specialized in **Predictive Analytics** and **Machine Learning**, and most recently in **AI Agent architecture** through Google's ML Research × Kaggle intensive.
 
-My sweet spot is the intersection of deep engineering domain knowledge and modern software. I build things that don't just work — they ship, scale, and solve problems that someone in the field actually has.
+My sweet spot is the intersection of deep engineering domain knowledge and modern software. I build things that don't just work, they ship, scale, and solve problems that someone in the field actually has.
 
 ---
 
@@ -62,19 +69,68 @@ My sweet spot is the intersection of deep engineering domain knowledge and moder
 ![Agile](https://img.shields.io/badge/-Scrum%20%2F%20Kanban-0052CC?style=flat)
 
 Also comfortable with: CRISP-DM, Test-Driven Development, Feature Engineering, Git-Flow.
-
 ---
 
 ### Featured projects
 
-**[Match_up](https://github.com/Scaphix/match_up)** — Full-stack Django dating platform with secure authentication (django-allauth), Cloudinary-backed image storage, and an AJAX-driven mutual-matching system. Documented end-to-end with UX wireframes, ERD, and Agile user stories.  
-→ [Live demo](https://match-up-05e880a5897c.herokuapp.com)
+<table>
+<tr>
+<td width="50%">
 
-**[The AI Salary Index](https://github.com/Scaphix/the-ai-salary-index)** — Data analysis exploring salary trends across AI/ML roles.
+### [Match_up](https://github.com/Scaphix/match_up)
 
-**[Mood Swings](https://github.com/Scaphix/mood_swings)** — Data science project exploring mood patterns through applied analytics.
+Full-stack Django dating platform with secure authentication, mutual-matching logic via Django signals, and AJAX interactions.
 
-**[TokenTracker](https://github.com/Scaphix/TokenTracker)** — Python utility for tracking token usage in LLM workflows.
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+[Live Demo](https://match-up-05e880a5897c.herokuapp.com) · [Code](https://github.com/Scaphix/match_up)
+
+</td>
+<td width="50%">
+
+### [The AI Salary Index](https://github.com/Scaphix/the-ai-salary-index)
+Data analysis exploring salary trends across AI/ML roles, EDA, feature engineering, and visualization.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+[Streamlit Demo](https://tasi-the-ai-salary-index-361138766018.herokuapp.com/page_cluster_body) · [Code](https://github.com/Scaphix/the-ai-salary-index)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Mood Swings](https://github.com/Scaphix/mood_swings)
+Data science exploration of mood patterns, applied analytics with ML classification and predictive modeling.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+[Code](https://github.com/Scaphix/mood_swings)
+
+</td>
+<td width="50%">
+
+### [TokenTracker](https://github.com/Scaphix/TokenTracker)
+Python utility for tracking token usage and cost across LLM workflows.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-8B5CF6?style=flat-square)
+
+[Code](https://github.com/Scaphix/TokenTracker)
+
+</td>
+</tr>
+</table>
+
+
 
 ---
 
@@ -93,6 +149,19 @@ This background means I read a spec, a datasheet, and a user story in the same a
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Scaphix&show_icons=true&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Scaphix&hide_border=true&stroke=8b5cf6&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scaphix&layout=compact&hide_border=true" />
+</p>
+
+---
+
 ### Languages
 
 - **Arabic** — native
@@ -103,21 +172,18 @@ This background means I read a spec, a datasheet, and a user story in the same a
 
 ---
 
-### GitHub stats
+
+### Let's connect
+
+- Open to **junior / mid-level roles** in Full-Stack Development, Data Science, or ML Engineering
+- Based in **Oldenburg, DE**  open to hybrid and remote across Germany and the EU
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Scaphix&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scaphix&layout=compact&theme=default&hide_border=true" />
+  <a href="mailto:chahinez.hoelzenbein@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Scaphix"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
-### Let's connect
-
-- Email — **chahinez.hoelzenbein@gmail.com**
-- Open to **junior / mid-level roles** in Full-Stack Development, Data Science, or ML Engineering
-- Based in **Oldenburg, DE** — open to hybrid and remote across Germany and the EU
-
----
-
-<p align="center"><i>Curious about problems that sit at the intersection of disciplines — where engineering intuition and software rigor both matter.</i></p>
+<p align="center"><i>Curious about problems that sit at the intersection of disciplines | where engineering intuition and software rigor both matter.</i></p>
