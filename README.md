@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:chahinez.hoelzenbein@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/Scaphix"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="www.linkedin.com/in/chahinez-boutemine"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
   <img src="https://komarev.com/ghpvc/?username=Scaphix&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
@@ -99,7 +98,7 @@ Data analysis exploring salary trends across AI/ML roles, EDA, feature engineeri
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-[Streamlit Demo](https://tasi-the-ai-salary-index-361138766018.herokuapp.com/page_cluster_body) · [Code](https://github.com/Scaphix/the-ai-salary-index)
+[Streamlit Demo](https://tasi-the-ai-salary-index.streamlit.app/) · [Code](https://github.com/Scaphix/the-ai-salary-index)
 
 </td>
 </tr>
